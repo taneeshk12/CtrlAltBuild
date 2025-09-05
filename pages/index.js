@@ -121,7 +121,7 @@ export default function Home() {
               href="mailto:team@ctrlaltbuild.com"
               className="text-blue-600 dark:text-blue-400 font-semibold hover:underline transition-all duration-300"
             >
-              info@ctrlaltbuild.com
+              team@ctrlaltbuild.com
             </a>
           </p>
           <a
